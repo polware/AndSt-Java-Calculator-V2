@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Basic Calculator</string>
-    <string name="calcular">Calcular</string>
-    <string name="resultado">RESULTADO</string>
-    <string name="Sum">+</string>
-</resources>
